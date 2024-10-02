@@ -2,4 +2,4 @@
 
 -👀 Interested in web development, 3D design (Three.js), and exploring cybersecurity.
 
--🔧 Skilled in JavaScript, React, HTML/CSS, C++, and Three.js.
+-🔧 Skilled in JavaScript, React, C++, and Three.js.
